@@ -13,9 +13,9 @@
 
 
 ## 3. 실시간 성능 데이터 출력 웹 서비스(node-server)
- 본 프로젝트의 모니터링 시스템은 주기적으로 웹 페이지에 실시간으로 성능 정보를 출력한다.
+ 본 프로젝트의 모니터링 시스템은 주기적으로 웹 페이지에 실시간으로 성능 정보를 출력합니다.
  
- 이를 위해 서버 측에서는 MySQL DB에 저장된 데이터를 주기적으로 읽어와 mosquitto MQTT broker를 통해 웹 브라우저의 Javascript 코드와 연계하여 웹 페이지에 출력한다.
+ 이를 위해 서버 측에서는 MySQL DB에 저장된 데이터를 주기적으로 읽어와 mosquitto MQTT broker를 통해 웹 브라우저의 Javascript 코드와 연계하여 웹 페이지에 출력합니다.
  
 - DB에서 가져온 JSON 형태의 레코드(ex. performance table)
 <img src = "https://user-images.githubusercontent.com/38847724/127317714-b5f9a206-b1ee-48b7-a241-c7c41addebf8.png" width="70%" height="70%">
@@ -25,7 +25,7 @@
 
 
 ## 4. 대시보드 웹 시스템(react-client)
- 서버로부터 받은 성능 정보를 다양한 차트 형식으로 운영자에게 출력하는 서비스이다.
+ 서버로부터 받은 성능 정보를 다양한 차트 형식으로 운영자에게 출력하는 서비스입니다.
 
 - 대시보드 UI 1 - 타겟 메시지 서버 성능 정보
 ![image](https://user-images.githubusercontent.com/38847724/127319346-975d3ca6-62bb-4dda-a790-8041eb8048df.png)
