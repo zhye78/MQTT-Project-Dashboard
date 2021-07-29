@@ -8,7 +8,7 @@
 <img src = "https://user-images.githubusercontent.com/38847724/127315703-15176e0d-dbb7-4b4c-a5c6-508073f110a0.png" width="90%" height="90%">
 
 
-## 2. 그 중 Dashboard Web System 파트
+## 2. 그 중 ③Dashboard Web System 파트
 <img src = "https://user-images.githubusercontent.com/38847724/127315778-428ebada-3d32-43bf-8d11-196989210cbd.png" width="90%" height="90%">
 
 
